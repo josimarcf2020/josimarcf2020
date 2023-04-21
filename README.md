@@ -7,6 +7,9 @@
 [![Hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/josimar_f)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/JosimarCav1)
 
+## 🚀 Sobre mim
+Sou Técnico em Processamento de Dados desde 1996, tendo trabalhado com linguagem Clipper (Summer'87 e Clipper5), também desenvolvi trabalhos em Delphi e CGI. Sobrevivi a um hiato de 2002 a 2022 sem programar, quando retornei a área de TI. Atualmente curso Desenvolvimento de Sistemas no SENAI.
+
 ## Tecnologias que uso no dia a dia:
 
 ### Ambiente operacional
