@@ -1,4 +1,4 @@
-# Olá sou Josimar Ferreira 🙋🏽‍♂️
+# Olá me chamo Josimar Ferreira 🙋🏽‍♂️
 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/AccountChooser?source=ogb&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&Email=josimar.f%40aluno.senai.br&ec=GAhAFw)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/josimarcf)
