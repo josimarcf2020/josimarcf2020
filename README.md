@@ -8,7 +8,7 @@
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/JosimarCav1)
 
 ## 🚀 Sobre mim
-Sou Técnico em Processamento de Dados desde 1996, tendo trabalhado com linguagem Clipper (Summer'87 e Clipper5), também desenvolvi trabalhos em Delphi e CGI. Sobrevivi a um hiato de 2002 a 2022 sem programar, quando retornei a área de TI. Atualmente curso Desenvolvimento de Sistemas no SENAI.
+Sou Técnico em Processamento de Dados desde 1996, tendo trabalhado com linguagem Clipper (Summer'87 e Clipper5), também desenvolvi trabalhos em Delphi e CGI. Sobrevivi a um hiato de 2002 a 2022 sem programar, quando retornei a área de TI. Atualmente curso Desenvolvimento de Sistemas na Faculdade CDL.
 
 ## Tecnologias que uso no dia a dia:
 
