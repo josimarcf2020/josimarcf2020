@@ -26,7 +26,7 @@ Sou Técnico em Processamento de Dados desde 1996, tendo trabalhado com linguage
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-003545?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-777BB4?style=for-the-badge&logo=Kotlin&logoColor=white" />
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-5C2D91?style=for-the-badge&logo=Kotlin&logoColor=white" />
     <p></p>
 </div>
 
